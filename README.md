@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 👨🏻‍💻 Full-Stack Development using React, React Native, NextJS, NodeJS, Express, MongoDB and Supabase
+- 💬 Ask me about anything via phscloq@gmail.com
 <!--
 **phscloq/phscloq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
